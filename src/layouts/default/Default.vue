@@ -4,7 +4,7 @@
     <Login v-model="visible"/>
     <MenuBarNav v-model="show_hidde_menu_nav"/>
     <default-view/>
-    <default-footer/>
+  <default-footer/>
   </v-app>
 </template>
 
